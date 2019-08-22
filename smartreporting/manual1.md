@@ -1,0 +1,1 @@
+# Smart reporting user guide
