@@ -21,8 +21,10 @@ The following tags will be replaced with the corresponding headings:
         IM: 'Impact',
         NA: 'Name',
         OB: 'Objective',
+        OW: 'Owner',
         RG: 'Region',
         RS: 'Management response',
+        ST: 'Status',
         TY: 'Type'
       }
 ```
