@@ -11,16 +11,19 @@ The following tags will be replaced with the corresponding headings:
 
 ```javascript
       let dictionary = {
+        BU: 'Business Unit',
+        DA: 'Date',
+        DE: 'Description',
+        FR: 'Frequency',
         ID: 'Id',
+        IDS: 'Issue Id',
+        IS: 'Issue',
+        IM: 'Impact',
         NA: 'Name',
         OB: 'Objective',
-        DE: 'Description',
         RG: 'Region',
-        BU: 'Business Unit',
-        FR: 'Frequency',
-        IS: 'Issue',
-        IDS: 'Issue Id',
-        RS: 'Management response'
+        RS: 'Management response',
+        TY: 'Type'
       }
 ```
 
@@ -40,6 +43,7 @@ some random text 1 - should be skipped
     <bu>Business 1</bu>
     <fr>Frequency 1</fr>
     <is>[C01.D.1] Issue 1a</is>
+    <im>[C01.D.1] Impact 1a this is where we describe so what</im>
     <is>[C01.D.2] Issue 2a</is>
     <is>[C01.E.1] Issue 3a</is>
     <rs>[C01.D.1] Response 1a</rs>
