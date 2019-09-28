@@ -12,6 +12,7 @@ The following tags will be replaced with the corresponding headings:
 ```javascript
       let dictionary = {
         BU: 'Business Unit',
+        CA: 'Control assessment',
         DA: 'Date',
         DE: 'Description',
         FR: 'Frequency',
@@ -19,12 +20,17 @@ The following tags will be replaced with the corresponding headings:
         IDS: 'Issue Id',
         IS: 'Issue',
         IM: 'Impact',
+        LE: 'Legal entity',
         NA: 'Name',
+        NO: 'Notice',
         OB: 'Objective',
         OW: 'Owner',
+        RE: 'Recommendation',
         RG: 'Region',
         RS: 'Management response',
         ST: 'Status',
+        TOE: 'Operating effectiveness assessment',
+        TOD: 'Design assessment',
         TY: 'Type'
       }
 ```
